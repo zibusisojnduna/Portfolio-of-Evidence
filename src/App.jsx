@@ -47,7 +47,7 @@ user-focused applications.</p>
         
         <div style={{margin:"5%", textAlign:"center", backgroundColor:"whitesmoke", padding:"5%", borderRadius:"10px"}}>
           <p>Name: Social Media Page</p>
-          <p>Description: A simple social media page that allows users to post and share content on their own page.</p>
+          <p>Description: A simple social static media page that allows users to post and share content on their own page.</p>
           <p>Technologies Used: HTML, CSS, JavaScript</p>
           <p>Link:<a href=' https://github.com/zibusisojnduna/Social-Media-Page-2'> https://github.com/zibusisojnduna/Social-Media-Page-2</a></p>
         </div>
