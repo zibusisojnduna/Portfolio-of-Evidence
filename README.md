@@ -22,7 +22,7 @@ cd Portfolio-Of-Evidence
 
 
 ```bash
-npm run dev
+npm install
 ```
 <h1>Run the app</h1>
 
