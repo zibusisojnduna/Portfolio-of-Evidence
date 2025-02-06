@@ -1,8 +1,31 @@
-# React + Vite
+<img src="https://socialify.git.ci/zibusisojnduna/Portfolio-of-Evidence/image?language=1&name=1&owner=1&stargazers=1&theme=Dark" alt="Portfolio-of-Evidence" width="640" height="320" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1>Portfolio of Evidence</h1>
 
-Currently, two official plugins are available:
+<p>A website that doubles as an online portfolio of evidence.</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h1>Run Locally</h1>
+
+<p>Clone this project</p>
+
+```bash
+git clone https://github.com/zibusisojnduna/Portfolio-of-Evidence
+```
+
+<p>Go to the project directory</p>
+
+```bash
+cd Portfolio-Of-Evidence
+```
+
+<p>Install dependencies</p>
+
+
+```bash
+npm run dev
+```
+<h1>Run the app</h1>
+
+```bash
+npm run dev
+```
